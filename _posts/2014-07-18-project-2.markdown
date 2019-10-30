@@ -1,0 +1,13 @@
+---
+title: PUBLIKK.
+subtitle: Office Design
+layout: default
+modal-id: 2
+img: escape.png
+description: PUBLIKK will be a coworking space that gives writers and journalists the freedom to express themselves. Located at Eastview Mall in Victor, NY, the coworking space will be 20,000 square feet. Inspired by the idea of changing time, PUBLIKK will  use light, color, and depth, to attract a sense of vibrancy and creativity that the community of Rochester represents. This office space will feature a high-spirited atmosphere and a mid-century modern theme that visually balances and creates a flexible and dynamic flow through the layout of the space. With amenities like an editing lab, library, and writing studios, writers and journalists of any age will be able to create and collaborate.
+thumbnail: escape-thumbnail.png
+alt: image-alt
+client: Wilmorite Properties
+project-date: August 2019
+category: Interior Design
+---
