@@ -1,9 +1,9 @@
 ---
-title: Raquel's First Project!
-subtitle: Yay
+title: MO:KI
+subtitle: Start-Up
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-08
 img: dreams.png
 img: escape.png
 thumbnail: dreams-thumbnail.png
