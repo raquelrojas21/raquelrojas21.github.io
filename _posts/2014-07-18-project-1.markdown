@@ -3,14 +3,11 @@ title: MO:KI
 subtitle: Start-Up
 layout: default
 modal-id: 1
-date: 2018-08
-img: dreams.png
+img: IMG_0010.jpg
 img: escape.png
+description: A bespoke collection of modular units highlighting flexible work zones for improved user cooking experience.
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: KaBOOM!
+project-date: August 2018
 category: Interior Design
-description: This was a dope project. I worked really hard. And designed real good. Please take a look. Yay!
-
 ---
