@@ -3,9 +3,9 @@ title: MO:KI
 subtitle: Start-Up
 layout: default
 modal-id: 1
-img: IMG_0010.jpg
-img: escape.png
+img: abstract.png
 description: A bespoke collection of modular units highlighting flexible work zones for improved user cooking experience.
+img: escape.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: August 2018
